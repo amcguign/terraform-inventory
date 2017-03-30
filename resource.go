@@ -27,6 +27,7 @@ func init() {
 		"network_interface.0.access_config.0.assigned_nat_ip", // GCE
 		"network_interface.0.address",                         // GCE
 		"ipv4_address_private",                                // SoftLayer
+		"private_ip_address",                                  // Azure
 	}
 
 	// type.name.0
